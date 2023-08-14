@@ -1,5 +1,5 @@
 #include "Cpu.h"
-#include "CpuInstruction.h"
+#include "CpuOpCode.h"
 
 #include <cstdio>
 

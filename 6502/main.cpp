@@ -1,6 +1,6 @@
 #include "Io.h"
 #include "Cpu.h"
-#include "CpuInstruction.h"
+#include "CpuOpCode.h"
 #include "Memory.h"
 #include "Oscillator.h"
 
